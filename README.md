@@ -1,4 +1,4 @@
 ParsiFonts
 ==========
 
-A collection of Persian fonts that are good for web use. 
+A collection of best Persian fonts for web use.
